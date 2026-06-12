@@ -1,1 +1,3 @@
-# Smart Contract Technical Challenge: Advanced Yield Streamer
+# Smart Contract Technical Challenge:
+<br/><br/>
+Advanced Yield Streamer
